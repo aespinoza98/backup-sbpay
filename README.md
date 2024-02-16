@@ -1,6 +1,6 @@
 # Backup del pc sbpay
 
-Lista de programas a instalar:
+## Lista de programas a instalar:
 - [Homebrew](https://brew.sh/) (Instalar manualmente)
 - [Github Desktop](https://desktop.github.com/) (Instalar manualmente)
 - [Xcode](https://developer.apple.com/xcode/) (Instalar manualmente)
@@ -17,7 +17,7 @@ Lista de programas a instalar:
 - [Spotify](https://www.spotify.com/es/download/mac/)
 - [Visual Studio Code](https://code.visualstudio.com/download)
 
-Extensiones de Visual Studio Code:
+## Extensiones de Visual Studio Code:
 - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 - [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=rodrigovallades.es7-react-js-snippets)
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
