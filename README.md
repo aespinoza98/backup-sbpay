@@ -44,4 +44,5 @@
 3. Dar permisos al script de instalación de programas mediante el siguiente comando: `chmod +x install_programs.sh`
 4. Ejecutar el script de instalación de programas mediante el siguiente programa: `./install_programs.sh`
 5. Dar permisos al script de instalación de extensiones de Visual Studio Code mediante el siguiente comando: `chmod +x install_vscode_extensions.sh`
-6. Ejecutar el script de instalación de extensiones de Visual Studio Code mediante el siguiente programa: `./install_vscode_extensions.sh`
+6. Abrir visual studio code con el siguiente comando `code .`
+7. Ejecutar el script de instalación de extensiones de Visual Studio Code mediante el siguiente programa: `./install_vscode_extensions.sh`
